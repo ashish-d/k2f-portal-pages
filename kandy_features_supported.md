@@ -1,8 +1,7 @@
 
-
-## Supported Features
-| Services        | iOS | Android || bi |
-|:--------------:|:-----------:|:------------:|:------------:|:------
+## Kandy Supported Features scorecard
+ Services        | iOS | Android
+|-----------------|--------------|-----|
 | Provisioning   | ✓           | ✓|    
 | Text, Picture, Message   | ✓           | ✓|    
 | Group Messaging   | ✓           | ✓|    
@@ -12,4 +11,3 @@
 | Location   | ✓           | ✓|    
 | Push   | ✓           | ✓| 
 | Cloud Stroage   | ✓           | ✓|    
-
