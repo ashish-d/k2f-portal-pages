@@ -1,20 +1,17 @@
-## Release Notes for Kandy Phonegap Plugin 1.6
+## Release Notes
 
 ## Overview:
 
-- Int his release we focused on meging iOS and Andriod phonegap plugin repo into single repo
-- Added & Updated documents on Github
-- Added Incoming call notification when the app in background
+- In this release we focused on merging PhoneGap iOS and Android plugin Github repositories into one repository.
+- Added & Updated documents on Github.
+- Added Incoming call notification when the app runs in background.
+- Phonegap Kandy Plugin supports Kandy mobile SDK 1.6 for Android and iOS.
 
 ## New Features:
 **Cloud Storage Service**
 
-New service added – you can now upload / download any kind of file
+ New service added and that allows you to upload / download any kind of file into Kandy Cloud.
 
 **Billing Service**
 
-New service added
-
-**Subscriber Provisioning**
-
-Added support for sending OTP in different methods
+New service added and helps to get the logged-in user's billing informations.
