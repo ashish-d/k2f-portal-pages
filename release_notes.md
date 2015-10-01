@@ -10,7 +10,7 @@
 ## New Features:
 **Cloud Storage Service**
 
- New service added and that allows you to upload / download any kind of file into Kandy Cloud.
+ New service added and that allows developers to upload / download any kind of file into Kandy Cloud.
 
 **Billing Service**
 
