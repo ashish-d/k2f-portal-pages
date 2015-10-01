@@ -1,9 +1,10 @@
-
-## Kandy Supported Features scorecard
+## Kandy Features Supported
  Services        | iOS | Android
 |-----------------|--------------|-----|
 | Provisioning   | ✓           | ✓|    
-| Text, Picture, Message   | ✓           | ✓|    
+| Rich Messaging   | ✓           | ✓|    
+| Contact Sharing   | ✓           | ✓|    
+| Location Sharing   | ✓           | ✓|    
 | Group Messaging   | ✓           | ✓|    
 | Presence   | ✓           | ✓|    
 | PSTN & SMS Out   | ✓           | ✓|    
@@ -11,3 +12,4 @@
 | Location   | ✓           | ✓|    
 | Push   | ✓           | ✓| 
 | Cloud Stroage   | ✓           | ✓|    
+| Billing Information   | ✓           | ✓|    
