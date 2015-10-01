@@ -2,9 +2,8 @@
 
 ## Overview:
 
-- In this release we focused on merging PhoneGap iOS and Android plugin Github repositories into one repository.
+- In this release we merged into PhoneGap iOS and Android plugin Github repositories.
 - Added & Updated documents on Github.
-- Added Incoming call notification when the app runs in background.
 - Phonegap Kandy Plugin supports Kandy mobile SDK 1.6 for Android and iOS.
 
 ## New Features:
@@ -14,4 +13,4 @@
 
 **Billing Service**
 
-New service added and helps to get the logged-in user's billing informations.
+New service added to get the logged-in user's billing information.
