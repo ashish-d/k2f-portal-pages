@@ -4,8 +4,6 @@ In order to create applications with Kandy features, you will need to first inst
 
 **if you are developing for Android, you will need:**
 
-There are also some additional PhoenGap specific requirements for Android development, including:
-
 - Eclipse IDE
 - ADT plugin for Eclipse
 - Apache Ant
@@ -30,7 +28,7 @@ An intel-based Apple Computer
 - Xcode
 - Mac OS X Snow Leopard
 
-**Configure your xcode project with Kandy:**
+**Configure your iOS project with Kandy:**
 
 Add the Kandy SDKs into your iOS PhoneGap project and configure project file
 
