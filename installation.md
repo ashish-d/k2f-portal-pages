@@ -38,7 +38,7 @@ Go to the directory where you maintain your source code, and  execute the follow
 ```shell
     phonegap create hello com.example.hello HelloWorld
 ```
-Then, copy example source code from [`demo`](/demo) directory of this plugin to your app directory
+Then, copy example source code from [`demo`] directory of this plugin to your app directory
 
 **Add Platforms**
 
@@ -80,4 +80,4 @@ For iOS, execute the following:
 
 [readme]: <https://github.com/Kandy-IO/kandy-phonegap/blob/master/README.md>
 [Kandy iOS SDK]: <https://developer.kandy.io/docs/ios-sdk/>
-[demo]: <https://github.com/Kandy-IO/kandy-phonegap/tree/master/demo/www>
+[`demo`]: <https://github.com/Kandy-IO/kandy-phonegap/tree/master/demo/www>
