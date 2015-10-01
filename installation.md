@@ -3,8 +3,8 @@
 Follow the [readme] to get started. It includes instructions for using this plugin with iOS and Android devices. Currently, the plugin supports Kandy mobile SDK 1.6 for Android and iOS.
 
 ### Getting Started
-This plugin defines a global `Kandy` object, which provide an easy way to interact with PhoneGap Kandy plugin.
-Although the object is in the global scope, it is not available until after the `deviceready` event. After the `deviceready` event, you must initialize to  config and register listeners to use Kandy plugin.
+This plugin defines a global `Kandy` object, which provide an easy way to interact with Kandy services.
+Although the object is in the global scope, it is not available until after the `deviceready` event. After the `deviceready` event, you must initialize configuration and register listeners to use Kandy plugin.
 
 ```js
     function onDeviceReady(){
@@ -34,11 +34,11 @@ See [API Reference](#api-reference) for more details.
 ### How to use example codes
 **Create the App**
 
-Go to the directory where you maintain your source code, and  execute the following::
+Go to the directory where you maintain your source code, and  execute the following:
 ```shell
     phonegap create hello com.example.hello HelloWorld
 ```
-Then, copy example source codes from [`demo`](/demo) directory of this plugin to your app directory
+Then, copy example source code from [`demo`](/demo) directory of this plugin to your app directory
 
 **Add Platforms**
 
@@ -60,9 +60,9 @@ For iOS, execute the following:
 ```
 **Add PhoneGap Kandy Plugin**
 
-The PhoneGap plugin add command requires you to specify the repository for the plugin code. Here are examples of how you might use the CLI to add features to the app:
+The `PhoneGap plugin add` command requires you to specify the repository for the plugin code. Here are examples of how you might use the CLI to add features to the app:
 
-For iOS only, before add the plugin into you app, you need to download and add [Kandy iOS SDK] into 'directory/to/kandy-phonegap/libs/ios/' folder and  execute the following,
+For iOS, you need to download and add [Kandy iOS SDK] into 'directory/to/kandy-phonegap/libs/ios/' folder, before adding the plugin into you app and  execute the following,
 
 ```shell
     phonegap plugin add directory/to/kandy-phonegap/plugin
@@ -80,3 +80,4 @@ For iOS, execute the following:
 
 [readme]: <https://github.com/Kandy-IO/kandy-phonegap/blob/master/README.md>
 [Kandy iOS SDK]: <https://developer.kandy.io/docs/ios-sdk/>
+[demo]: <https://github.com/Kandy-IO/kandy-phonegap/tree/master/demo/www>
