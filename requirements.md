@@ -30,11 +30,11 @@ An intel-based Apple Computer
 - Xcode
 - Mac OS X Snow Leopard
 
-**Configure your xcode project with Kandy**
+**Configure your xcode project with Kandy:**
 
 Add the Kandy SDKs into your iOS PhoneGap project and configure project file
 
-##### Add the SDK to your app
+##### Add the SDK to your app:
 In order to use the SDK, add the following frameworks to your project:
 - KandySDK.framework
 - MobileSDK.framework
