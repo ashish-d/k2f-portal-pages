@@ -15,6 +15,7 @@ There are also some additional PhoenGap specific requirements for Android develo
 The PhoneGap Android [documentation] provides the complete list of requirements with install instructions for each.
 
 **Configure your Android project with Kandy:**
+
 Add the Kandy SDKs into your Android PhoneGap project and configure project file
 
 - Add Permissions
