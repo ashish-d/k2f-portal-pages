@@ -1,4 +1,4 @@
-# Requirments
+# Requirements
 
 In order to create applications with Kandy features, you will need to first install the Kandy native mobile SDKs for the mobile platforms you want to target for your app. The PhoneGap Kandy plugin will actually use these SDKs when compiling your app for that platform.
 
