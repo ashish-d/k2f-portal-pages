@@ -38,6 +38,5 @@ Alternatively, you can deploy this package to your Salesforce application by che
 - From the Kandy Links widget on sidebar, click __Kandy Setting__ to configure Kandy Project API key, Project API secret and domain name. Please note that the project api key is different from account api key. Each project has an api key, which usually starts with DAK.
 
 ##### Assign Kandy user for each Salesforce user
-- Click on __Kandy Assignment__ link on the __Kandy Links__ Sidebar Widget. Kandy Users will be fetched from server and assign automatically for the first time. Since the 2nd time, you can Get new Kandy Users by click the __Get Kandy Users__ button and assign users manually.
-- You can click on __Auto Assign Users__ to assign Kandy Users to Salesforce users automatically or you can assign manually by clicking __New Assignment__ button.
-- When you add a new user to your salesforce application, he should be assigned with a Kandy user automatically.
+- When the widget __Kandy Links__ | __Kandy Assignment__ loads for the first time, it assigns Kandy users to Salesforce users automatically. Going forward, an administrator can maintain these associations using this link __Kandy Assignment__.
+- When you add a new user to your salesforce application, an un-assigned Kandy user wil be automatically assigned. If all Kandy users are already assigned, a new kandy user will be created.
