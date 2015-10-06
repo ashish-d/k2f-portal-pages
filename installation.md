@@ -16,17 +16,22 @@ Although the object is in the global scope, it is not available until after the 
     }
 ```
 After you initialize the `KandyPlugin`, you can use `Kandy` with following syntax:
+
 ```js
     Kandy.access.login(function(s){ // successCallback function
         // your code here
     }, function(e){ // errorCallback function
         // your code here
     }, username, password);
+    
 ```
+
 or as a widget:
+
 ```html
     <kandy widget="call" call-success="callSuccess"></kandy>
 ```
+
 See [API Reference](#api-reference) for more details.
 
 **Note: To use Kandy plugin, you have to setup `apiKey` and `secretKey` via `initialize` or `setKey` function**
