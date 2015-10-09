@@ -1,4 +1,4 @@
-## Introduction
+### Introduction
 
 We’re happy to announce the support of a PhoneGap Kandy plugin! Check out the plugin repository on [Github]. The PhoneGap Kandy plugin is completely free to use, just like PhoneGap. The plugin allows developers to make voice and video calls, manage address books, send/receive Rich messages, share data in group message, on Android and iOS.
 
