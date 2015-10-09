@@ -1,4 +1,4 @@
-## Installation
+### Installation
 
 Follow the [readme] to get started. It includes instructions for using this plugin with iOS and Android devices. Currently, the plugin supports Kandy mobile SDK 1.6 for Android and iOS.
 
@@ -15,9 +15,12 @@ Although the object is in the global scope, it is not available until after the 
         });
     }
 ```
+
 After you initialize the `KandyPlugin`, you can use `Kandy` with following syntax:
 
+
 ```js
+
     Kandy.access.login(function(s){ // successCallback function
         // your code here
     }, function(e){ // errorCallback function
@@ -37,21 +40,26 @@ See [API Reference](#api-reference) for more details.
 **Note: To use Kandy plugin, you have to setup `apiKey` and `secretKey` via `initialize` or `setKey` function**
 
 ### How to use example codes
+
 **Create the App**
 
 Go to the directory where you maintain your source code, and  execute the following:
+
 ```shell
     phonegap create hello com.example.hello HelloWorld
 ```
+
 Then, copy example source code from [`demo`] directory of this plugin to your app directory
 
 **Add Platforms**
 
 All subsequent commands need to be run within the project's directory, or any subdirectories within its scope:
 
+
 ```shell
     cd hello
 ```
+
 Before you can build the project, you need to specify a set of target platforms. PhoneGap Kandy plugin supports both iOS and Android, so run any of these from Mac or Windows machine:
 
 For Android, execute the following:
@@ -59,10 +67,13 @@ For Android, execute the following:
 ```shell
     phonegap platform add android
 ```
+
 For iOS, execute the following:
+
 ```shell
     phonegap platform add ios
 ```
+
 **Add PhoneGap Kandy Plugin**
 
 The `PhoneGap plugin add` command requires you to specify the repository for the plugin code. Here are examples of how you might use the CLI to add features to the app:
@@ -72,13 +83,18 @@ For iOS, you need to download and add [Kandy iOS SDK] into 'directory/to/kandy-p
 ```shell
     phonegap plugin add directory/to/kandy-phonegap/plugin
 ```
+
 **Build the App**
 
 For Android, execute the following:
+
+
 ```shell
     phonegap build android
 ```
+
 For iOS, execute the following:
+
 ```shell
     phonegap build iOS
 ```
