@@ -1,4 +1,4 @@
-## Kandy Features Supported
+### Kandy Features Supported
 
 - Provisioning 
 - Rich Messaging
