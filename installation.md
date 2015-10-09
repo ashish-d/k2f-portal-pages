@@ -1,8 +1,8 @@
-### Installation
+##### Installation
 
 Follow the [readme] to get started. It includes instructions for using this plugin with iOS and Android devices. Currently, the plugin supports Kandy mobile SDK 1.6 for Android and iOS.
 
-### Getting Started
+##### Getting Started
 This plugin defines a global `Kandy` object, which provide an easy way to interact with Kandy services.
 Although the object is in the global scope, it is not available until after the `deviceready` event. After the `deviceready` event, you must initialize configuration and register listeners to use Kandy plugin.
 
@@ -39,7 +39,7 @@ See [API Reference](#api-reference) for more details.
 
 **Note: To use Kandy plugin, you have to setup `apiKey` and `secretKey` via `initialize` or `setKey` function**
 
-### How to use example codes
+##### How to use example codes
 
 **Create the App**
 
