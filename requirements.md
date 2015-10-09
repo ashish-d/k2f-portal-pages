@@ -24,6 +24,7 @@ For more information see [Kandy Android SDK docs].
 **If you are developing for the iOS, you will need:**
 
 An intel-based Apple Computer
+
 - iPhone SDK
 - Xcode
 - Mac OS X Snow Leopard
@@ -35,6 +36,7 @@ Add the Kandy SDKs into your iOS PhoneGap project and configure project file
 **Add the SDK to your app:**
 
 In order to use the SDK, add the following frameworks to your project:
+
 - KandySDK.framework
 - MobileSDK.framework
 
