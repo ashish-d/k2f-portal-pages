@@ -1,5 +1,5 @@
 ### Kandy Features Supported
 
-- Video/Audio call
-- PSTN 
-- SMS
+- P2P Voice and Video Call
+- IP to SMS
+- IP to PSTN
