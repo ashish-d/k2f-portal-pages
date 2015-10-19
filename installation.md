@@ -5,7 +5,7 @@ Create an account on salesforce.com. Use this '[link]' to install the Kandy pack
 ##### Configure package
 
 - **Assign home page layout**
-  - From Setup, click `Customize` | `Home` | `Home Page Layouts`.
+  - From Setup, click `Customize | Home | Home Page Layouts`.
   - Click `Page Layout Assignment`.
   - Click `Edit Assignment`.
   - Choose the appropriate page layout: `Kandy Admin Layout` for System Admin profile and `Kandy Home Layout` for others.
