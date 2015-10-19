@@ -20,7 +20,7 @@ Create an account on salesforce.com. Use this link [https://login.salesforce.com
   
 
 - **Configure Kandy pages access permissions**
-  - From Setup, click `Develo | Pages` click the `Security` link of `Kandy Address Book, Kandy Widget, Video Call Answer` pages and then add the profile you want to grant access permission. 
+  - From Setup, click `Develop | Pages` click the `Security` link of `Kandy Address Book, Kandy Widget, Video Call Answer` pages and then add the profile you want to grant access permission. 
 
 
 - **Configure Kandy API**
