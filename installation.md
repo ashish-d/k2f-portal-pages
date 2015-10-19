@@ -1,6 +1,6 @@
 ### Installation
 
-Create an account on salesforce.com. Use this [link] to install the Kandy package to your application.
+Create an account on salesforce.com. Use this '[link]' to install the Kandy package to your application.
 
 ##### Configure package
 
@@ -22,7 +22,7 @@ Create an account on salesforce.com. Use this [link] to install the Kandy packag
 
 - **Configure Kandy API**
 
-  - From Setup, click __Security Controls__ | __Remote Site Settings__ . Click on __New Remote Site__. Add link <https://api.kandy.io> to the __Remote Site Url__ input, the __Remote Site Name__ is whatever you want. Click __Save__. 
+  - From Setup, click __Security Controls__ | __Remote Site Settings__ . Click on __New Remote Site__. Add link 'https://api.kandy.io' to the __Remote Site Url__ input, the __Remote Site Name__ is whatever you want. Click __Save__. 
   - 
   - From the Kandy Links widget on sidebar, click __Kandy Setting__ to configure Kandy Project API key, Project API secret and domain name. Please note that the project api key is different from account api key. Each project has an api key, which usually starts with DAK.
 
