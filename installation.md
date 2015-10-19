@@ -10,13 +10,14 @@ Create an account on salesforce.com. Use this '[link]' to install the Kandy pack
   - Click `Edit Assignment`.
   - Choose the appropriate page layout: `Kandy Admin Layout` for System Admin profile and `Kandy Home Layout` for others.
   - Click Save.
+  
 
   
 - **Configure custom sidebar**
   - From Setup, click `Customize | User Interface`.
   - Check `Show Custom Sidebar Components on All Pages`.
   - Click Save.
-
+  
 
 - **Configure Kandy pages access permissions**
   - From Setup, click `Develo | Pages` click the `Security` link of `Kandy Address Book, Kandy Widget, Video Call Answer` pages and then add the profile you want to grant access permission. 
@@ -27,10 +28,10 @@ Create an account on salesforce.com. Use this '[link]' to install the Kandy pack
   - Add link `https://api.kandy.io` to the `Remote Site Url` input, the `Remote Site Name` is whatever you want. 
   - Click `Save`. 
   - From the Kandy Links widget on sidebar, click `Kandy Setting` to configure Kandy Project API key, Project API secret and domain name. Please note that the project api key is different from account api key. Each project has an api key, which usually starts with DAK.
+  
 
 - **Assign Kandy user for each Salesforce user**
   - When the widget `Kandy Links | Kandy Assignment` loads for the first time, it assigns Kandy users to Salesforce users automatically. Going forward, an administrator can maintain these associations using this link `Kandy Assignment`.
-
   - When you add a new user to your salesforce application, an un-assigned Kandy user wil be automatically assigned. If all Kandy users are already assigned, a new kandy user will be created.
 
 [link]: <https://login.salesforce.com/packaging/installPackage.apexp?p0=04t28000000MeJH>
