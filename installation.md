@@ -1,6 +1,6 @@
 ### Installation
 
-Create an account on salesforce.com. Use this '[link]' to install the Kandy package to your application.
+Create an account on salesforce.com. Use this [https://login.salesforce.com/packaging/installPackage.apexp?p0=04t28000000MeJH] to install the Kandy package to your application.
 
 ##### Configure package
 
@@ -34,4 +34,4 @@ Create an account on salesforce.com. Use this '[link]' to install the Kandy pack
   - When the widget `Kandy Links | Kandy Assignment` loads for the first time, it assigns Kandy users to Salesforce users automatically. Going forward, an administrator can maintain these associations using this link `Kandy Assignment`.
   - When you add a new user to your salesforce application, an un-assigned Kandy user wil be automatically assigned. If all Kandy users are already assigned, a new kandy user will be created.
 
-[link]: <https://login.salesforce.com/packaging/installPackage.apexp?p0=04t28000000MeJH>
+[https://login.salesforce.com/packaging/installPackage.apexp?p0=04t28000000MeJH]: <https://login.salesforce.com/packaging/installPackage.apexp?p0=04t28000000MeJH>
