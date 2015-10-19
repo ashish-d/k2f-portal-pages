@@ -1,14 +1,13 @@
-# Kandy salesforce
-This salesforce package encapsulates Kandy’s JS SDK and Restful APIs. Kandy is a product by GENBAND (www.genband.com) that utilizes WebRTC to enable peer to peer audio/video calls, chat, SMS and PSTN.
+# Introduction
+ 
+This Salesforce package encapsulates Kandy’s JavaScript SDK and REST APIs. With this package, you can enable video and voice calling between two users that are logged into your Salesforce applications. Kandy (http://www.kandy.io/)  is a communications Platform as a Service (PaaS) that quickly enhances software applications with real time communications to deliver a more human and context-based experience. Kandy's cloud-based features enable companies to seamlessly embed voice, video, rich messaging, presence, co-browsing, and screen sharing into Web and mobile applications.
 
-With this package, you can enable video and audio calling between two users that are logged into your salesforce application.
-
-Think of pages where you anticipate users collaborating with each other, possibly to discuss content on those pages. Your users could start a video call with other online users and enhance the collaboration experience. Home page: http://www.kandy.io/
+With this package Salesforce users can collaborating with their colleagues, partners or customers on any page such as Accounts, Contacts or Chatter. Users can start a voice or video call with other online users and enhance the collaboration experience. They can send an SMS to other users having an SMS enabled phone and make PSTN phone calls.
 
 ***
 # Install package
 
-Create an account on salesforce.com. Use this link to install the Kandy package to your application: 
+Create an account on <https://www.salesforce.com>. Use this link to install the Kandy package to your application: 
 <https://login.salesforce.com/packaging/installPackage.apexp?p0=04t28000000MeJH> 
 
 Alternatively, you can deploy this package to your Salesforce application by checking out source code from github and deploy by using Force.com plugin for Eclipse.
