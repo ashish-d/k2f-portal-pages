@@ -11,14 +11,16 @@ Create an account on salesforce.com. Use this '[link]' to install the Kandy pack
   - Choose the appropriate page layout: `Kandy Admin Layout` for System Admin profile and `Kandy Home Layout` for others.
   - Click Save.
 
+  
 - **Configure custom sidebar**
-  - From Setup, click __Customize__ | __User Interface__.
-  - Check __Show Custom Sidebar Components on All Pages__.
+  - From Setup, click `Customize | User Interface`.
+  - Check `Show Custom Sidebar Components on All Pages`.
   - Click Save.
 
-- **Configure Kandy pages access permissions**
 
-  - From Setup, click __Develop__ | __Pages__ click the __Security__ link of __Kandy Address Book__, __Kandy Widget__, __Video      Call Answer__ pages and then add the profile you want to grant access permission. 
+- **Configure Kandy pages access permissions**
+  - From Setup, click `Develo | Pages` click the `Security` link of `Kandy Address Book, Kandy Widget, Video Call Answer` pages and then add the profile you want to grant access permission. 
+
 
 - **Configure Kandy API**
 
