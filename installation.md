@@ -35,4 +35,4 @@ Create an account on [salesforce.com]. Use this link [https://login.salesforce.c
   - When you add a new user to your salesforce application, an un-assigned Kandy user wil be automatically assigned. If all Kandy users are already assigned, a new kandy user will be created.
 
 [https://login.salesforce.com/packaging/installPackage.apexp?p0=04t28000000MeJH]: <https://login.salesforce.com/packaging/installPackage.apexp?p0=04t28000000MeJH>
-[salesforce.com]: <http://salesforce.com>
+[salesforce.com]: <https://www.salesforce.com/>
