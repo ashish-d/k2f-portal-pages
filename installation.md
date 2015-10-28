@@ -74,7 +74,7 @@ For iOS, execute the following:
     phonegap platform add ios
 ```
 
-**Add PhoneGap Kandy Plugin**
+**Add Kandy PhoneGap Plugin**
 
 The `PhoneGap plugin add` command requires you to specify the repository for the plugin code. Here are examples of how you might use the CLI to add features to the app:
 
