@@ -29,18 +29,24 @@ An intel-based Apple Computer
 - Xcode
 - Mac OS X Snow Leopard
 
-**Configure your iOS project with Kandy:**
+**General Configuration:**
 
-Add the Kandy SDKs into your iOS PhoneGap project and configure project file
+##### Compilation
 
-**Add the SDK to your app:**
+64-bit compilation is fully supported.
 
-In order to use the SDK, add the following frameworks to your project:
+##### Enable Background Mode
 
-- KandySDK.framework
-- MobileSDK.framework
+For the application to work as expected in the background, enter into the application's Info.plist the following configuration:
 
-You can do so by either dragging them to the Project Navigator, or by choosing “Add files” from the Project Navigator Context Menu. For more information see [Kandy iOS SDK docs].
+```markup
+<key>UIBackgroundModes</key>
+<array>
+  <string>audio</string>
+  <string>voip</string>
+</array>
+```
+For more information see [Kandy iOS SDK docs].
 
 
 [documentation]: <http://phonegap.pbworks.com/Getting-started-with-Android-PhoneGap-in-Eclipse>
