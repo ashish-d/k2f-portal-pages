@@ -1,4 +1,4 @@
-##### Installation
+### Installation
 
 Follow the [readme] to get started. It includes instructions for using this plugin with iOS and Android devices. Currently, the plugin supports Kandy mobile SDK 1.6 for Android and iOS.
 
@@ -35,7 +35,7 @@ or as a widget:
     <kandy widget="call" call-success="callSuccess"></kandy>
 ```
 
-See [API Reference](#api-reference) for more details.
+See [API Reference](https://github.com/Kandy-IO/kandy-phonegap/blob/master/README.md) for more details.
 
 **Note: To use Kandy plugin, you have to setup `apiKey` and `secretKey` via `initialize` or `setKey` function**
 
