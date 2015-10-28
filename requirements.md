@@ -12,7 +12,7 @@ In order to create applications with Kandy features, you will need to first inst
 
 The PhoneGap Android [documentation] provides the complete list of requirements with install instructions for each.
 
-**Configure your Android Phonegap project with Kandy:**
+**Configure your Android PhoneGap project with Kandy:**
 
 Add the Kandy SDKs into your Android PhoneGap project and configure project file
 
@@ -29,7 +29,7 @@ An intel-based Apple Computer
 - Xcode
 - Mac OS X Snow Leopard
 
-**Configure your iOS Phonegap project with Kandy:**
+**Configure your iOS PhoneGap project with Kandy:**
 
 ###### Enable Background Mode
 
