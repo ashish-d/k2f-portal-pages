@@ -31,7 +31,7 @@ An intel-based Apple Computer
 
 **General Configuration:**
 
-##### Enable Background Mode
+###### Enable Background Mode
 
 For the application to work as expected in the background, enter into the application's Info.plist the following configuration:
 
