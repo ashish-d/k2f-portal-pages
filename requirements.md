@@ -29,7 +29,7 @@ An intel-based Apple Computer
 - Xcode
 - Mac OS X Snow Leopard
 
-**General Configuration:**
+**Configure your iOS project with Kandy:**
 
 ###### Enable Background Mode
 
