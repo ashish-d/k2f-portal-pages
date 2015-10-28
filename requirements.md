@@ -31,10 +31,6 @@ An intel-based Apple Computer
 
 **General Configuration:**
 
-##### Compilation
-
-64-bit compilation is fully supported.
-
 ##### Enable Background Mode
 
 For the application to work as expected in the background, enter into the application's Info.plist the following configuration:
