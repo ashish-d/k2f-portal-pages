@@ -32,7 +32,7 @@ Use this link [https://login.salesforce.com/packaging/installPackage.apexp?p0=04
 
 - **Assign Kandy user for each Salesforce user**
   - When the widget `Kandy Links | Kandy Assignment` loads for the first time, it assigns Kandy users to Salesforce users automatically. Going forward, an administrator can maintain these associations using this link `Kandy Assignment`.
-  - When you add a new user to your salesforce application, an un-assigned Kandy user wil be automatically assigned. If all Kandy users are already assigned, a new kandy user will be created.
+  - When Administrator adds a new user through `Setup | Manage Users | Users | New User`, this user will be assigned automatically to a Kandy user. If all Kandy users are already assigned, a new Kandy user will be created.
 
 [https://login.salesforce.com/packaging/installPackage.apexp?p0=04t28000000MeJH]: <https://login.salesforce.com/packaging/installPackage.apexp?p0=04t28000000MeJH>
 [salesforce.com]: <https://www.salesforce.com/>
