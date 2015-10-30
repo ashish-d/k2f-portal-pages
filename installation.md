@@ -1,6 +1,6 @@
 ### Installation
 
-Use this link [https://login.salesforce.com/packaging/installPackage.apexp?p0=04t28000000MeJH] to install Kandy package to your application.
+We are reworking on Kandy Salesforce package due to recent changes in Salesforce system.
 
 ##### Configure package
 
