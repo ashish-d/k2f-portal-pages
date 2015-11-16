@@ -1,6 +1,6 @@
 ### Installation
 
-We are reworking on Kandy Salesforce package due to recent changes in Salesforce system.
+Use this link [https://login.salesforce.com/packaging/installPackage.apexp?p0=04t28000000NAp5] to install Kandy package to your application.
 
 ##### Configure package
 
@@ -34,5 +34,11 @@ We are reworking on Kandy Salesforce package due to recent changes in Salesforce
   - When the widget `Kandy Links | Kandy Assignment` loads for the first time, it assigns Kandy users to Salesforce users automatically. Going forward, an administrator can maintain these associations using this link `Kandy Assignment`.
   - When Administrator adds a new user through `Setup | Manage Users | Users | New User`, this user will be assigned automatically to a Kandy user. If all Kandy users are already assigned, a new Kandy user will be created.
 
-[https://login.salesforce.com/packaging/installPackage.apexp?p0=04t28000000MeJH]: <https://login.salesforce.com/packaging/installPackage.apexp?p0=04t28000000MeJH>
-[salesforce.com]: <https://www.salesforce.com/>
+- **Add PSTN, SMS, P2P Call to Contact page**
+  - View a particular contact
+  - Select `Edit Layout | Visualforce Pages`
+  - Drag and drop `Kandy P2P Call` and `Kandy PSTN and SMS` to the Contact Information section below.
+  - Change the default height 200px to 20px.
+
+
+
