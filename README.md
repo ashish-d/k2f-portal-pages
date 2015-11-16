@@ -37,7 +37,7 @@ Create an account on <https://www.salesforce.com>. Use this link to install the 
 ##### Assign Kandy user for each Salesforce user
 - When the widget __Kandy Links__ | __Kandy Assignment__ loads for the first time, it assigns Kandy users to Salesforce users automatically. Going forward, an administrator can maintain these associations using this link __Kandy Assignment__.
 - When you add a new user to your salesforce application, an un-assigned Kandy user wil be automatically assigned. If all Kandy users are already assigned, a new kandy user will be created.
-- 
+
 ##### Add PSTN, SMS, P2P Call to Contact page**
 - View a particular contact
 - Select `Edit Layout | Visualforce Pages`
