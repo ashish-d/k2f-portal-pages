@@ -40,5 +40,8 @@ Use this link <https://login.salesforce.com/packaging/installPackage.apexp?p0=04
   - Drag and drop `Kandy P2P Call` and `Kandy PSTN and SMS` to the Contact Information section below.
   - Change the default height 200px to 20px.
 
+![Screenshot1](https://github.com/Kandy-IO/k2f-portal-pages/blob/k2f-salesforce/resources/Salesforce_Admin_Contact_Edit_Layout.PNG)
+
+![Screenshot2](https://github.com/Kandy-IO/k2f-portal-pages/blob/k2f-salesforce/resources/Salesforce_Admin_Configure_Contact_PSTN_SMS_P2P.png)
 
 
