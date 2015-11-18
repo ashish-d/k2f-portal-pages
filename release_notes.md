@@ -4,9 +4,14 @@
 
     - In this release we merged into PhoneGap iOS and Android plugin Github repositories.
     - Added & Updated documents on Github.
-    - Phonegap Kandy Plugin supports Kandy mobile SDK 1.6 for Android and iOS.
+    - Kandy Phonegap Plugin supports iOS SDK 1.6.4 and Android SDK 1.6.
 
   - ##### New Features:
+  
+    - **Presence Service** (Supported iOS Only)
+      - Update Presence State - Updates the user's presence state.
+      - Start Watch Presence - This method starts watching contacts, which are given in the list.
+      - Stop Watch Presenc - Stop watching all user presence.
 
     - **Cloud Storage Service**
   
