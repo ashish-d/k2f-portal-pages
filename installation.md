@@ -10,25 +10,25 @@ Use this link <https://login.salesforce.com/packaging/installPackage.apexp?p0=04
   - Click `Edit Assignment`.
   - Choose the appropriate page layout: `Kandy Admin Layout` for System Admin profile and `Kandy Home Layout` for others.
   - Click Save.
-  
 
-  
+
+
 - **Configure custom sidebar**
   - From Setup, click `Customize | User Interface`.
   - Check `Show Custom Sidebar Components on All Pages`.
   - Click Save.
-  
+
 
 - **Configure Kandy pages access permissions**
-  - From Setup, click `Develop | Pages` click the `Security` link of `Kandy Address Book, Kandy Widget, Video Call Answer` pages and then add the profile you want to grant access permission. 
+  - From Setup, click `Develop | Pages` click the `Security` link of `Kandy Address Book, Kandy Widget, Video Call Answer` pages and then add the profile you want to grant access permission.
 
 
 - **Configure Kandy API**
-  - From Setup, click `Security Controls | Remote Site Settings` . Click on `New Remote Site`. 
-  - Add link `https://api.kandy.io` to the `Remote Site Url` input, the `Remote Site Name` is whatever you want. 
-  - Click `Save`. 
+  - From Setup, click `Security Controls | Remote Site Settings` . Click on `New Remote Site`.
+  - Add link `https://api.kandy.io` to the `Remote Site Url` input, the `Remote Site Name` is whatever you want.
+  - Click `Save`.
   - From the Kandy Links widget on sidebar, click `Kandy Setting` to configure Kandy Project API key, Project API secret and domain name. Please note that the project api key is different from account api key. Each project has an api key, which usually starts with DAK.
-  
+
 
 - **Assign Kandy user for each Salesforce user**
   - When the widget `Kandy Links | Kandy Assignment` loads for the first time, it assigns Kandy users to Salesforce users automatically. Going forward, an administrator can maintain these associations using this link `Kandy Assignment`.
@@ -40,8 +40,8 @@ Use this link <https://login.salesforce.com/packaging/installPackage.apexp?p0=04
   - Drag and drop `Kandy P2P Call` and `Kandy PSTN and SMS` to the Contact Information section below.
   - Change the default height 200px to 20px.
 
-![Screenshot1](https://github.com/Kandy-IO/k2f-portal-pages/blob/k2f-salesforce/resources/Salesforce_Admin_Contact_Edit_Layout.PNG)
+![Screenshot1](resources/Salesforce_Admin_Contact_Edit_Layout.PNG)
 
-![Screenshot2](https://github.com/Kandy-IO/k2f-portal-pages/blob/k2f-salesforce/resources/Salesforce_Admin_Configure_Contact_PSTN_SMS_P2P.png)
+![Screenshot2](resources/Salesforce_Admin_Configure_Contact_PSTN_SMS_P2P.png)
 
 
