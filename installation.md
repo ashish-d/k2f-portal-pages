@@ -20,7 +20,7 @@ Use this link <https://login.salesforce.com/packaging/installPackage.apexp?p0=04
 
 
 - **Configure Kandy pages access permissions**
-  - From Setup, click `Develop | Pages` click the `Security` link of `Kandy Address Book, Kandy Widget, Video Call Answer` pages and then add the profile you want to grant access permission.
+  - From Setup, click `Develop | Pages` click the `Security` link of `Kandy Address Book, Kandy Widget, Kandy PSTN And SMS, Kandy P2P Call` pages and then add the profile you want to grant access permission.
 
 
 - **Configure Kandy API**
