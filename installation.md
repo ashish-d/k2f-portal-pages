@@ -44,10 +44,14 @@ Use this link <https://login.salesforce.com/packaging/installPackage.apexp?p0=04
 
 ![Configure PSTN SMS P2P](resources/Salesforce_Admin_Configure_Contact_PSTN_SMS_P2P.png)
 
-##### Usage
+### Usage
+
+##### Search contacts to call
 
 ![Usage P2P](resources/Salesforce_Usage_P2P.PNG)
 
 ![Usage P2P Video](resources/Salesforce_Usage_P2P_Video.PNG)
+
+##### Select a particular contact to call, send SMS
 
 ![Usage P2P PSTN SMS](resources/Salesforce_Usage_P2P_PSTN_SMS.PNG)
