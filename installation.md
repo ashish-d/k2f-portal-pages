@@ -31,8 +31,11 @@ Use this link <https://login.salesforce.com/packaging/installPackage.apexp?p0=04
 
 
 - **Assign Kandy user for each Salesforce user**
-  - When the widget `Kandy Links | Kandy Assignment` loads for the first time, it assigns Kandy users to Salesforce users automatically. Going forward, an administrator can maintain these associations using this link `Kandy Assignment`.
+  - When the widget `Kandy Admin Links | Kandy Assignment` loads for the first time, it assigns Kandy users to Salesforce users automatically. Going forward, an administrator can maintain these associations using this link `Kandy Assignment`.
   - When Administrator adds a new user through `Setup | Manage Users | Users | New User`, this user will be assigned automatically to a Kandy user. If all Kandy users are already assigned, a new Kandy user will be created.
+  - Administrator can manually assign Salesforce user to Kandy user through `Kandy Admin Links | Kandy Assignment | New Assignment`
+  - Administrator can automatically assign existing Kandy users to Salesforce users through `Kandy Admin Links | Kandy Assignment | Auto Assign Kandy Users`
+  - Administrator can keep Kandy users in sync with Kandy Portal through `Kandy Admin Links | Kandy Assignment | Sync Kandy Users`
 
 - **Add PSTN, SMS, P2P Call to Contact page**
   - View a particular contact
