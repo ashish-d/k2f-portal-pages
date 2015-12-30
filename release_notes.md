@@ -4,7 +4,7 @@
 
     - In this release we merged into PhoneGap iOS and Android plugin Github repositories.
     - Added & Updated documents on Github.
-    - Kandy Phonegap Plugin supports iOS SDK 1.6.4 and Android SDK 1.6.
+    - Kandy Phonegap Plugin supports iOS SDK 1.6.4 and Android SDK 1.6.88
 
   - ##### New Features:
   
