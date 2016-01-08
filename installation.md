@@ -1,6 +1,6 @@
 ### Installation
 
-Follow the [wiki] to get started. It includes instructions for using this plugin with iOS and Android devices. Currently, the plugin supports Kandy mobile SDK 1.6 for Android and iOS.
+Follow the [wiki] to get started. It includes instructions for using this plugin with iOS and Android devices.
 
 ##### Getting Started
 This plugin defines a global `Kandy` object, which provide an easy way to interact with Kandy services.
