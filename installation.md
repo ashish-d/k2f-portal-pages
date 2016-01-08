@@ -1,6 +1,6 @@
 ### Installation
 
-Follow the [readme] to get started. It includes instructions for using this plugin with iOS and Android devices. Currently, the plugin supports Kandy mobile SDK 1.6 for Android and iOS.
+Follow the [wiki] to get started. It includes instructions for using this plugin with iOS and Android devices. Currently, the plugin supports Kandy mobile SDK 1.6 for Android and iOS.
 
 ##### Getting Started
 This plugin defines a global `Kandy` object, which provide an easy way to interact with Kandy services.
@@ -99,6 +99,6 @@ For iOS, execute the following:
     phonegap build iOS
 ```
 
-[readme]: <https://github.com/Kandy-IO/kandy-phonegap/blob/master/README.md>
+[wiki]: <https://github.com/Kandy-IO/kandy-phonegap/wiki>
 [Kandy iOS SDK]: <https://developer.kandy.io/docs/ios-sdk/>
 [`demo`]: <https://github.com/Kandy-IO/kandy-phonegap/tree/master/demo/www>
