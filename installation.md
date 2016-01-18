@@ -43,18 +43,27 @@ Use this link <https://login.salesforce.com/packaging/installPackage.apexp?p0=04
   - Drag and drop `Kandy P2P Call` and `Kandy PSTN and SMS` to the Contact Information section below.
   - Change the default height 200px to 20px.
 
-<img src="resources/Salesforce_Admin_Contact_Edit_Layout.PNG" title="Edit Layout" style="max-width: 75%" >
+<a href="#" class="thumbnail">
+  <img src="resources/Salesforce_Admin_Contact_Edit_Layout.PNG" title="Edit Layout" style="max-width: 75%" >
+</a>
 
-<img src="resources/Salesforce_Admin_Configure_Contact_PSTN_SMS_P2P.png" title="Configure PSTN SMS P2P" style="max-width: 75%">
+<a href="#" class="thumbnail">
+  <img src="resources/Salesforce_Admin_Configure_Contact_PSTN_SMS_P2P.png" title="Configure PSTN SMS P2P" style="max-width: 75%">
+</a>
 
 ### Usage
 
 ##### Search contacts to call
+<a href="#" class="thumbnail">
+  <img src="resources/Salesforce_Usage_P2P.PNG" title="Usage P2P" style="max-width: 75%">
+</a>
 
-<img src="resources/Salesforce_Usage_P2P.PNG" title="Usage P2P" style="max-width: 75%">
-
-<img src="resources/Salesforce_Usage_P2P_Video.PNG" title="Usage P2P Video" style="max-width: 75%">
+<a href="#" class="thumbnail">
+  <img src="resources/Salesforce_Usage_P2P_Video.PNG" title="Usage P2P Video" style="max-width: 75%">
+</a>
 
 ##### Select a particular contact to call, send SMS
 
-<img src="resources/Salesforce_Usage_P2P_PSTN_SMS.PNG" title="Usage P2P PSTN SMS" style="max-width: 75%">
+<a href="#" class="thumbnail">
+  <img src="resources/Salesforce_Usage_P2P_PSTN_SMS.PNG" title="Usage P2P PSTN SMS" style="max-width: 75%">
+</a>
