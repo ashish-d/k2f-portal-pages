@@ -43,27 +43,27 @@ Use this link <https://login.salesforce.com/packaging/installPackage.apexp?p0=04
   - Drag and drop `Kandy P2P Call` and `Kandy PSTN and SMS` to the Contact Information section below.
   - Change the default height 200px to 20px.
 
-<a href="#" class="thumbnail">
+<a href="resources/Salesforce_Admin_Contact_Edit_Layout.PNG" class="thumbnail">
   ![Edit Layout](resources/Salesforce_Admin_Contact_Edit_Layout.PNG)
 </a>
 
-<a href="#" class="thumbnail">
+<a href="resources/Salesforce_Admin_Configure_Contact_PSTN_SMS_P2P.png" class="thumbnail">
   ![Configure PSTN SMS P2P](resources/Salesforce_Admin_Configure_Contact_PSTN_SMS_P2P.png)
 </a>
 
 ### Usage
 
 ##### Search contacts to call
-<a href="#" class="thumbnail">
+<a href="resources/Salesforce_Usage_P2P.PNG" class="thumbnail">
   ![Usage P2P](resources/Salesforce_Usage_P2P.PNG)
 </a>
 
-<a href="#" class="thumbnail">
+<a href="resources/Salesforce_Usage_P2P_Video.PNG" class="thumbnail">
   ![Usage P2P Video](resources/Salesforce_Usage_P2P_Video.PNG)
 </a>
 
 ##### Select a particular contact to call, send SMS
 
-<a href="#" class="thumbnail">
+<a href="resources/Salesforce_Usage_P2P_PSTN_SMS.PNG" class="thumbnail">
   ![Usage P2P PSTN SMS](resources/Salesforce_Usage_P2P_PSTN_SMS.PNG)
 </a>
