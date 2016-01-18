@@ -45,16 +45,16 @@ Use this link <https://login.salesforce.com/packaging/installPackage.apexp?p0=04
 
 <img src="resources/Salesforce_Admin_Contact_Edit_Layout.PNG" title="Edit Layout" style="max-width: 75%" >
 
-<img src="resources/Salesforce_Admin_Configure_Contact_PSTN_SMS_P2P.png" title="Configure PSTN SMS P2P" style:"max-widht: 75%">
+<img src="resources/Salesforce_Admin_Configure_Contact_PSTN_SMS_P2P.png" title="Configure PSTN SMS P2P" style="max-width: 75%">
 
 ### Usage
 
 ##### Search contacts to call
 
-<img src="resources/Salesforce_Usage_P2P.PNG" title="Usage P2P" style:"max-widht: 75%">
+<img src="resources/Salesforce_Usage_P2P.PNG" title="Usage P2P" style="max-width: 75%">
 
-<img src="resources/Salesforce_Usage_P2P_Video.PNG" title="Usage P2P Video" style:"max-widht: 75%">
+<img src="resources/Salesforce_Usage_P2P_Video.PNG" title="Usage P2P Video" style="max-width: 75%">
 
 ##### Select a particular contact to call, send SMS
 
-<img src="resources/Salesforce_Usage_P2P_PSTN_SMS.PNG" title="Usage P2P PSTN SMS" style:"max-widht: 75%">
+<img src="resources/Salesforce_Usage_P2P_PSTN_SMS.PNG" title="Usage P2P PSTN SMS" style="max-width: 75%">
