@@ -44,26 +44,26 @@ Use this link <https://login.salesforce.com/packaging/installPackage.apexp?p0=04
   - Change the default height 200px to 20px.
 
 <a href="#" class="thumbnail">
-  <img src="resources/Salesforce_Admin_Contact_Edit_Layout.PNG" title="Edit Layout" style="max-width: 75%" >
+  ![Edit Layout](resources/Salesforce_Admin_Contact_Edit_Layout.PNG)
 </a>
 
 <a href="#" class="thumbnail">
-  <img src="resources/Salesforce_Admin_Configure_Contact_PSTN_SMS_P2P.png" title="Configure PSTN SMS P2P" style="max-width: 75%">
+  ![Configure PSTN SMS P2P](resources/Salesforce_Admin_Configure_Contact_PSTN_SMS_P2P.png)
 </a>
 
 ### Usage
 
 ##### Search contacts to call
 <a href="#" class="thumbnail">
-  <img src="resources/Salesforce_Usage_P2P.PNG" title="Usage P2P" style="max-width: 75%">
+  ![Usage P2P](resources/Salesforce_Usage_P2P.PNG)
 </a>
 
 <a href="#" class="thumbnail">
-  <img src="resources/Salesforce_Usage_P2P_Video.PNG" title="Usage P2P Video" style="max-width: 75%">
+  ![Usage P2P Video](resources/Salesforce_Usage_P2P_Video.PNG)
 </a>
 
 ##### Select a particular contact to call, send SMS
 
 <a href="#" class="thumbnail">
-  <img src="resources/Salesforce_Usage_P2P_PSTN_SMS.PNG" title="Usage P2P PSTN SMS" style="max-width: 75%">
+  ![Usage P2P PSTN SMS](resources/Salesforce_Usage_P2P_PSTN_SMS.PNG)
 </a>
