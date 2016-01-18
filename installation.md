@@ -44,6 +44,7 @@ Use this link <https://login.salesforce.com/packaging/installPackage.apexp?p0=04
   - Change the default height 200px to 20px.
 
 ![Edit Layout](resources/Salesforce_Admin_Contact_Edit_Layout.PNG)
+<img src="resources/Salesforce_Admin_Contact_Edit_Layout.PNG" title="Edit Layout" style="max-width: 75%" >
 
 ![Configure PSTN SMS P2P](resources/Salesforce_Admin_Configure_Contact_PSTN_SMS_P2P.png)
 
